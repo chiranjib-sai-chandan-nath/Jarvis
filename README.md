@@ -152,10 +152,10 @@
 <br/>
 
 <!-- GitHub repo stats -->
-[![Stars](https://img.shields.io/github/stars/ChiranjibSaiChandanNath/Jarvis?style=social)](https://github.com/ChiranjibSaiChandanNath/Jarvis/stargazers)
-[![Forks](https://img.shields.io/github/forks/ChiranjibSaiChandanNath/Jarvis?style=social)](https://github.com/ChiranjibSaiChandanNath/Jarvis/network/members)
-[![Issues](https://img.shields.io/github/issues/ChiranjibSaiChandanNath/Jarvis?color=ff6d00&style=flat-square)](https://github.com/ChiranjibSaiChandanNath/Jarvis/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/ChiranjibSaiChandanNath/Jarvis?color=00e676&style=flat-square)](https://github.com/ChiranjibSaiChandanNath/Jarvis/commits)
+[![Stars](https://img.shields.io/github/stars/chiranjib-sai-chandan-nath/Jarvis?style=social)](https://github.com/chiranjib-sai-chandan-nath/Jarvis/stargazers)
+[![Forks](https://img.shields.io/github/forks/chiranjib-sai-chandan-nath/Jarvis?style=social)](https://github.com/chiranjib-sai-chandan-nath/Jarvis/network/members)
+[![Issues](https://img.shields.io/github/issues/chiranjib-sai-chandan-nath/Jarvis?color=ff6d00&style=flat-square)](https://github.com/chiranjib-sai-chandan-nath/Jarvis/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/chiranjib-sai-chandan-nath/Jarvis?color=00e676&style=flat-square)](https://github.com/chiranjib-sai-chandan-nath/Jarvis/commits)
 
 <br/>
 
@@ -230,7 +230,7 @@ Ensure you have the following installed on Windows:
 
 1. Clone the repository and navigate to the project folder:
    ```cmd
-   git clone https://github.com/ChiranjibSaiChandanNath/Jarvis.git
+   git clone https://github.com/chiranjib-sai-chandan-nath/Jarvis.git
    cd Jarvis
    ```
 
